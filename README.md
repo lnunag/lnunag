@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi, I'm Lorenz! 👋
 
-<!--
-**lnunag/lnunag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- You can find my Data Analytics projects [here!](https://github.com/lnunag/DataAnalysis/tree/master)
+- I'm interested in improving my skills in Tableau
+- My next goal will be to learn Power BI
 
-Here are some ideas to get you started:
+### Talk with me on LinkedIn!
+[View LinkedIn Profile](https://www.linkedin.com/in/lorenz-nunag/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Languages and Data Analytics Tools:
+- [x] SQL
+- [x] Python
+- [x] R Programming
+- [x] Javascript/Java
+- [x] HTML/CSS
+- [x] Microsoft Excel
+- [x] BigQuery
+
+<br />
+
+### Data Visualization Tools:
+- [x] Microsoft Excel
+- [x] Tableau
+
+<br />
+
+### Project Management Tools:
+- [x] Microsoft Teams
+- [x] Github
+- [x] Slack
+- [x] Google Workspace
+
+<br />
+
+### Relevant Work Experience:
+
+| Company                       | Job Title                                          | Sector     |Duration            |
+| ------------------------------| ---------------------------------------------------|------------|--------------------|
+| Rutgers OIT                   | L3 Supervisor                                      | Technology |Aug 2022 - Present  |
+
+
