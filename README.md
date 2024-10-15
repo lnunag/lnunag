@@ -12,6 +12,8 @@
 ### Languages and Data Analytics Tools:
 - [x] SQL
 - [x] Python
+- [x] NumPy
+- [x] Pandas
 - [x] R Programming
 - [x] Javascript/Java
 - [x] HTML/CSS
@@ -41,4 +43,16 @@
 | ------------------------------| ---------------------------------------------------|------------|--------------------|
 | Rutgers OIT                   | L3 Supervisor                                      | Technology |Aug 2022 - Present  |
 
+<br />
 
+### Certificates:
+- [x] Google Data Analytics Professional
+
+### Awards:
+- [x] NJ FBLA State Leadership Conference - Database Design and Application (2020)
+  - 1st Place Regional Ranking
+  - 2nd Place State Ranking
+- [x] NJ FBLA State Leadership Conference - Spreadsheet Applications (2019)
+  - 1st Place Regional Ranking
+  - 2nd Place State Ranking
+  - National Placement
